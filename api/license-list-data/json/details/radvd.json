@@ -8,11 +8,11 @@
   "licenseId": "radvd",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/radvd-project/radvd/blob/master/COPYRIGHT",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2026-07-16T09:21:03Z",
+      "timestamp": "2026-10-28T19:40:51Z",
       "isWayBackLink": false,
       "order": 0
     }
