@@ -8,22 +8,22 @@
   "licenseId": "EUPL-1.0",
   "crossRef": [
     {
-      "match": "false",
-      "url": "http://ec.europa.eu/idabc/en/document/7330.html",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2026-07-16T09:19:53Z",
-      "isWayBackLink": false,
-      "order": 0
-    },
-    {
-      "match": "false",
+      "match": "N/A",
       "url": "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id\u003d31096",
       "isValid": true,
-      "isLive": true,
-      "timestamp": "2026-07-16T09:19:54Z",
+      "isLive": false,
+      "timestamp": "2026-10-28T19:44:59Z",
       "isWayBackLink": false,
       "order": 1
+    },
+    {
+      "match": "N/A",
+      "url": "http://ec.europa.eu/idabc/en/document/7330.html",
+      "isValid": true,
+      "isLive": false,
+      "timestamp": "2026-10-28T19:44:59Z",
+      "isWayBackLink": false,
+      "order": 0
     }
   ],
   "seeAlso": [
